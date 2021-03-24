@@ -9,7 +9,7 @@ Ich habe für mein Projekt ein 3D Modell in Google SketchUp erstellt aus dem all
 
 Unter folgendem Link findet ihr ein kurzes Video meiner Box.
 
-<a href ="https://youtu.be/VNViy3dgvDU">https://youtu.be/VNViy3dgvDU </a>
+<a href ="https://youtu.be/VNViy3dgvDU" target="_blank">https://youtu.be/VNViy3dgvDU </a>
 
 
 Als kleine Anleitung zum Zusammenbau empfehle ich Euch zudem folgendes Video in dem ihr viele Arbeitsschritte beim Zusammenbau einer sehr ähnlichen Campingbox seht:
