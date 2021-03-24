@@ -135,13 +135,13 @@ Zur Anbringung der Theke an die Küchenbox und des Dreiecks zur Abstützung der 
 
 <a href= "https://www.amazon.de/gp/product/b01m3tu0tw/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=utf8&psc=1" target="_blank">https://www.amazon.de/gp/product/b01m3tu0tw/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=utf8&psc=1 </a>
 
-Große Box zum Herausziehen rechts.
+Große Box zum Herausziehen rechts. Maße 600 x 400 x 320 mm.
 
 #### Euro Box Klein
 
 <a href= "https://www.amazon.de/gp/product/B01M67Y9AQ/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1" target="_blank">https://www.amazon.de/gp/product/B01M67Y9AQ/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1 </a>
 
-Kleinere Box zum Herausziehen aus der Mitte, hinter dem Wasserkanister. 
+Kleinere Box zum Herausziehen aus der Mitte, hinter dem Wasserkanister. Maße 400 x 300 x 320 mm.
 
 
 # Werkzeug zum Bau: 
@@ -253,7 +253,7 @@ Am besten kauft man die notwendigen 20 Holzplatten bereits als Zuschnitt bei ein
 Macht das Sägen der Scharniere wesentlich einfacher
 
 
-#Zusätzliches Camping-Equipment für Volkswagen Caddy: 
+# Zusätzliches Camping-Equipment für Volkswagen Caddy: 
 Die Links sind Affiliate Links. Wenn ihr über diese Links etwas kauft, bekomme ich ein paar Cent als Kommission. Für Euch kostet das keinen Cent mehr. Vielen Dank!
 
 #### Kompressor-Kühlbox Dometic CDF18
