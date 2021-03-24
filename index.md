@@ -253,8 +253,10 @@ Am besten kauft man die notwendigen 20 Holzplatten bereits als Zuschnitt bei ein
 Macht das Sägen der Scharniere wesentlich einfacher
 
 
-# Zusätzliches Camping-Equipment für Volkswagen Caddy: 
+# Zusätzliches Camping-Equipment für Volkswagen Caddy:
+
 Die Links sind Affiliate Links. Wenn ihr über diese Links etwas kauft, bekomme ich ein paar Cent als Kommission. Für Euch kostet das keinen Cent mehr. Vielen Dank!
+
 
 #### Kompressor-Kühlbox Dometic CDF18
 
